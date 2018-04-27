@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="400"
+   id="svg2"
+   sodipodi:docname="British_Columbia_location_map.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="1.4511061"
+     inkscape:cx="201.34454"
+     inkscape:cy="163.52373"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Land"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>STyx</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2007-02-04</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Canada</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:source>Carte_administrative_du_Canada.png</dc:source>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <rect
+     width="500"
+     height="400"
+     x="0"
+     y="0"
+     id="ocean"
+     style="fill:#c6ecff;fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(61.313559,-522.69492)"
+     id="Land"
+     style="fill:#fefee9;fill-opacity:1">
+    <path
+       d="m 107.5,695 -6,-1.5 -4,6.5 -5.5,-1.5 0.5,-1 5.5,-0.5 2,-3 -1.5,-3.5 -2.5,-1 -0.5,-3.5 -2,-2 -5,6.5 -1.5,4 -2.5,2.5 2.5,2.5 -1,8.5 7,0.5 4.5,-6 z m -11,18 -2.5,-3.5 -9,0.5 0.5,1.5 v 6.5 l 2.5,17.5 3.5,0.5 v -2.5 l -1.5,-1 V 725 l -1.5,-5 2.5,-6.5 z m 19.5,25 -1.5,5.5 h 4 l 0.5,-5 z m 10,-8.5 -6.5,7 0.5,3.5 3.5,6.5 5,-8.5 z m 7.5,-7.5 -5.5,2.5 1.5,-3 z m -13,4 1.5,-3.5 -2,-13 -1.5,1 z m -5.5,-1 -3.5,-9 3,-3 1,2.5 2,7 z m 2,-15.5 3,-2 -2.5,-2.5 h -4 z m 24,120.5 1,-4.5 5.5,8 -1.5,4 z m -35.5,-48.5 3.5,-0.5 7,6 2.5,6 17.5,17 0.5,21 9,10.5 -1,11.5 -3,5.5 -7,-4 -8.5,-11.5 2,-3 -0.5,-2.5 -4.5,1 -3.5,-5.5 1.5,-2 -1.5,-8 H 116 l -1.5,-3.5 0.5,-2 h 2 l -0.5,-7.5 -4,-1 -2,-4 1.5,-1 -7,-6 3,-4.5 4.5,-0.5 0.5,-2.5 h -6 l -3,-5 z m 8.5,29 -3.5,3.5 4.5,3 z m 10.5,-49 12,-1.5 -0.5,-2.5 -11.5,1.5 z"
+       id="Colombie-Britannique iles"
+       style="fill:#fefee9;fill-opacity:1;stroke:#27aaea;stroke-width:1px;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 113,539.5 37.5,33 52,186.5 2,76 -47,17.5 -6,-2 2,-3.5 -0.5,-5.5 -3.5,-2 -1,-6 2,-0.5 -0.5,-4 -5,-1 -2.5,-8.5 2.5,-1 v -4 l -6,-7.5 h -2 l -8.5,-5.5 4.5,-5 -8,-8.5 -3,2 -4.5,-10.5 8,-7.5 -3.5,-1 2,-7 15,-3.5 v -5 l -11.5,1 -2.5,-7 2.5,-1.5 3,-3.5 -1.5,-2 0.5,-6.5 -1,-7.5 9.5,-7.5 -9.5,-1.5 -3,4.5 -1.5,-0.5 -1.5,-15.5 1.5,-2.5 -2.5,-6 14.5,-10 v -3 l 3,-2.5 4,-9.5 4,-2 1,-4.5 -3.5,-2.5 -1,-5 -6,-11 -2.5,-1.5 1,-3.5 -1,-3.5 3,-3 -2,-2.5 3.5,-2.5 1.5,-27.5 1,-1.5 -2.5,-16 2,-2.5 -2,-5.5 -1,-4.5 h 2 l -0.5,-8 -9,-2.5 -3.5,1.5 -2.5,4 -3,-0.5 -2,-1 -8,-0.5 3,-6.5 z"
+       id="path1533"
+       style="fill:#fefee9;fill-opacity:1;stroke:#27aaea;stroke-width:1px;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 289,646 -51.5,125.5 0.625,-0.375 2.875,2.875 2.375,1.5625 -4.375,2.46875 5.0625,6.03125 -0.9375,1.53125 5.09375,2.53125 -1.9375,4.03125 5.59375,7.03125 -0.4375,8.53125 3.59375,2.53125 0.125,5.28125 2.59375,1.25 3.625,5.28125 0.125,5.75 4.625,1.28125 -0.375,8.75 3.59375,6.78125 2.46875,4.125 -1.0625,4.125 4.46875,7.625 4.4375,5.125 -1.0625,9.625 -3.03125,11.625 3.9375,7.625 0.5,6 -31.5,-10.5 -29.5,-11 -37,-15 -22.375,-10.75 86.75,-226.5 6.125,2.25 36.25,16 z"
+       id="path1514"
+       style="fill:#fefee9;fill-opacity:1;stroke:#a5a9a2;stroke-width:1px;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 113.5,540 24.75,20.25 36.25,25.25 34,20.5 43.06682,22.02281 L 251.5,628 256.75,633.75 186,862 159.75,853.25 166.5,729.5 140,566 117,557 Z"
+       id="path1577"
+       style="fill:#fefee9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 113.5,540 24.75,20.25 36.25,25.25 34,20.5 43.06682,22.02281"
+       id="path1573"
+       style="fill:#fefee9;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:1px;stroke-opacity:0.50196078"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

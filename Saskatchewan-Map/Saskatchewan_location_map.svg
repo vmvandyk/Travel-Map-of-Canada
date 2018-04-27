@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="400"
+   id="svg2"
+   sodipodi:docname="Saskatchewan_location_map.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="1.026087"
+     inkscape:cx="471.28291"
+     inkscape:cy="1078.8197"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>STyx</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2007-02-04</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Canada</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:source>Carte_administrative_du_Canada.png</dc:source>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <rect
+     width="500"
+     height="400"
+     x="0"
+     y="0"
+     id="ocean"
+     style="fill:#c6ecff;fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(-166.78814,-611.38136)"
+     id="Land"
+     style="fill:#fefee9;fill-opacity:1">
+    <g
+       id="Saskatchewan"
+       style="fill:#fefee9;fill-opacity:1">
+      <path
+         d="M 388.88649,699.97152 337,915.5 l 22,5 28.5,5.5 27,4.5 21.5,3 26.5,3 7,-156 3.71875,-32.0625 L 475.5,734.5 l -0.65625,-0.25 -0.0625,0.65625 0.0625,-0.65625 L 479.5,694 467,693 433.5,688 394,680 v 0 l -3.23176,12.46538"
+         id="path1701"
+         style="fill:#fefee9;fill-opacity:1;stroke:#636363;stroke-width:1px;stroke-opacity:0.50196078"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 472.5,756.5 -2,1 -1,3.5 -5,5 -4.5,3.5 -4,0.5 -1.5,-2 0.5,-2 3.5,-0.5 0.5,1.5 6,-4 1,-3.5 -0.5,-3 -4,-6.5 5,-6.5 2,0.5 2,-4 5,-4.5"
+         id="lac1"
+         style="fill:#c6ecff;fill-opacity:1;stroke:#27aaea;stroke-width:1px;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 390.76824,692.46538 390.5,693.5 l 6.34375,-3.34375 4.76953,0.53125 0.76953,3.53125 9.26953,0.0312 13.26954,6.03125 -5.23047,0.53125 -4.73047,-1.96875 -4.73047,3.03125 L 400,699.90625 389,699.5 l -0.11351,0.47152"
+         id="lac2"
+         style="fill:#c6ecff;fill-opacity:1;stroke:#27aaea;stroke-width:1px;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

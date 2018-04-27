@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="1084" height="920" id="svg2">
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>STyx</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2007-02-04</dc:date>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Canada</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:source>Carte_administrative_du_Canada.png</dc:source>
+        <dc:title/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+        <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+        <cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs5"/>
+  <rect width="500" height="400" x="0" y="0" id="ocean" style="fill:#c6ecff;fill-opacity:1;stroke:none"/>
+  <g transform="translate(-80,-166)" id="Land" style="fill:#fefee9;fill-opacity:1">
+
+    <g id="Yukon" style="fill:#fefee9;fill-opacity:1">
+      <path d="m 252.5,403 -5,-5 -1.5,-4 0,-6 -1.5,-1 0.5,-6 -2.28512,-3.24728 -6.78511,-11.74727 -118.28512,162.25272 0.71488,8.25272" id="path1559" style="fill:#fefee9;fill-opacity:1;fill-rule:evenodd;stroke:#27aaea;stroke-width:1px;stroke-opacity:1"/>
+      <path d="m 113.5,539.46875 0,0.53125 24.75,20.25 36.25,25.25 34,20.5 44,22.5 0,0 -1,-17.5 3,-1 -1.5,-2.5 -9.5,-2 -3,-4 -5.5,-0.5 -4,-2 0.5,-7 4.5,-6 -3.5,-4.5 -2,-17 -4.5,0 -2,-3.5 2,-2.5 1.5,-3.5 0,-10 3.5,-3 -1.5,-6.5 5.5,-1.5 -1.5,-7 3,-3 -5,-3.5 2,-7.5 0.5,-2 -5,-5 1.5,-1 -2,-2.5 2,-3 -2.5,-4 4,-5 -0.5,-2.5 1.5,-1.5 5,-2.5 2,0.5 3.5,-11 -4.5,-0.5 -2,-3.5 -2,0 -1,-1.5 7,-10 3,-9 -8.5,-8.5 -6.5,-4.5 2,-0.5 5,-8 0.5,-3 16,-21.5 0,0" id="path1554" style="fill:#fefee9;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:1px;stroke-opacity:0.50196078"/>
+      <path d="M 235.85952,368.01089 235.5,367.5 101,521 l 3.5,4 2,-0.5 2,5 4.5,0 6,5 -5.5,1 0,3.96875" id="Yukon1" style="fill:#fefee9;fill-opacity:1;fill-rule:evenodd;stroke:#646464;stroke-width:1.875px;stroke-opacity:1"/>
+    </g>
+
+  </g>
+</svg>
