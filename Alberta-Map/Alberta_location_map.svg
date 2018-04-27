@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="158.03444"
-   height="271.77243"
+   width="500"
+   height="400"
    id="svg2"
    sodipodi:docname="Alberta_location_map.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
@@ -33,8 +33,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.026087"
-     inkscape:cx="-117.71899"
-     inkscape:cy="-36.022575"
+     inkscape:cx="50.441487"
+     inkscape:cy="26.584"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -85,12 +85,12 @@
   <rect
      width="500"
      height="400"
-     x="-168.16048"
-     y="-65.620995"
+     x="0"
+     y="0"
      id="ocean"
      style="fill:#c6ecff;fill-opacity:1;stroke:none" />
   <g
-     transform="translate(-236.46557,-644.84133)"
+     transform="translate(-68.305093,-579.22034)"
      id="Land"
      style="fill:#fefee9;fill-opacity:1">
     <g
